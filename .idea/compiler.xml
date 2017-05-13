@@ -2,8 +2,30 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="customer-controller_main" target="1.8" />
+      <module name="customer-controller_test" target="1.8" />
+      <module name="customercenter_main" target="1.8" />
+      <module name="customercenter_test" target="1.8" />
+      <module name="customercontroller_main" target="1.8" />
+      <module name="customercontroller_test" target="1.8" />
+      <module name="operation-controller_main" target="1.8" />
+      <module name="operation-controller_test" target="1.8" />
+      <module name="operation_main" target="1.8" />
+      <module name="operation_test" target="1.8" />
+      <module name="operationcenter_main" target="1.8" />
+      <module name="operationcenter_test" target="1.8" />
+      <module name="operationcontroller_main" target="1.8" />
+      <module name="operationcontroller_test" target="1.8" />
+      <module name="service_main" target="1.8" />
+      <module name="service_test" target="1.8" />
+      <module name="usercenter-controller_main" target="1.8" />
+      <module name="usercenter-controller_test" target="1.8" />
       <module name="usercenter_main" target="1.8" />
       <module name="usercenter_test" target="1.8" />
+      <module name="usercontroller_main" target="1.8" />
+      <module name="usercontroller_test" target="1.8" />
+      <module name="web_main" target="1.8" />
+      <module name="web_test" target="1.8" />
       <module name="zootopia_main" target="1.8" />
       <module name="zootopia_test" target="1.8" />
     </bytecodeTargetLevel>

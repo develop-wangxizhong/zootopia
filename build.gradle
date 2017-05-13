@@ -18,7 +18,7 @@ ext {
 }
 
 allprojects {
-   // group = 'zootopia'
+    group = 'zootopia'
     apply plugin: 'java'
     apply plugin: 'idea'
     sourceCompatibility = 1.8
@@ -26,13 +26,12 @@ allprojects {
     version = '1.0.0-SNAPSHOT'
     apply plugin: 'application'
     apply plugin: 'org.springframework.boot'
+   // mainClassName = 'zootopia.usercenter.UserCenterApplication'
 }
-
 
 subprojects {
    // ext.exportChilderLibs = new File(rootProject.rootDir, "libs").getAbsolutePath()
     //ext.exportRootLibs = fileTree(dir: exportChilderLibs, include: '**/*.jar')
-    mainClassName = 'zootopia.usercenter.UserCenterApplication'
 
     buildDir = new File(rootProject.getBuildDir().getAbsolutePath())
 

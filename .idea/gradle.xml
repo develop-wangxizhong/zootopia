@@ -10,7 +10,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/usercenter" />
+            <option value="$PROJECT_DIR$/web" />
+            <option value="$PROJECT_DIR$/web/customer-controller" />
+            <option value="$PROJECT_DIR$/web/operation-controller" />
+            <option value="$PROJECT_DIR$/web/usercenter-controller" />
           </set>
         </option>
       </GradleProjectSettings>
