@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/customer-controller/customer-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/web/customer-controller/customer-controller.iml" group="web/customer-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/customer-controller/customer-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/customer-controller/customer-controller_main.iml" group="web/customer-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/customer-controller/customer-controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/customer-controller/customer-controller_test.iml" group="web/customer-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/operation-controller/operation-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/web/operation-controller/operation-controller.iml" group="web/operation-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/operation-controller/operation-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/operation-controller/operation-controller_main.iml" group="web/operation-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/operation-controller/operation-controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/operation-controller/operation-controller_test.iml" group="web/operation-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/usercenter-controller/usercenter-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/web/usercenter-controller/usercenter-controller.iml" group="web/usercenter-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/usercenter-controller/usercenter-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/usercenter-controller/usercenter-controller_main.iml" group="web/usercenter-controller" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/usercenter-controller/usercenter-controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/usercenter-controller/usercenter-controller_test.iml" group="web/usercenter-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter.iml" group="service/interface-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_main.iml" group="service/interface-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_test.iml" group="service/interface-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter.iml" group="service/service-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_main.iml" group="service/service-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_test.iml" group="service/service-usercenter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-customer/web-customer.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-customer/web-customer.iml" group="web/web-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-customer/web-customer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-customer/web-customer_main.iml" group="web/web-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-customer/web-customer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-customer/web-customer_test.iml" group="web/web-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-operation/web-operation.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-operation/web-operation.iml" group="web/web-operation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-operation/web-operation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-operation/web-operation_main.iml" group="web/web-operation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-operation/web-operation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-operation/web-operation_test.iml" group="web/web-operation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-usercenter/web-usercenter.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-usercenter/web-usercenter.iml" group="web/web-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-usercenter/web-usercenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-usercenter/web-usercenter_main.iml" group="web/web-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web-usercenter/web-usercenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web-usercenter/web-usercenter_test.iml" group="web/web-usercenter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/zootopia.iml" filepath="$PROJECT_DIR$/.idea/modules/zootopia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zootopia_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zootopia_main.iml" group="zootopia" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zootopia_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zootopia_test.iml" group="zootopia" />
     </modules>
   </component>
 </project>

@@ -1,3 +1,7 @@
-include 'web:customer-controller'
-include 'web:operation-controller'
-include 'web:usercenter-controller'
+include 'web:web-customer'
+include 'web:web-operation'
+include 'web:web-usercenter'
+
+include 'service:interface-usercenter'
+
+include 'service:service-usercenter'

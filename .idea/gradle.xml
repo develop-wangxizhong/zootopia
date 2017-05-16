@@ -5,15 +5,18 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../dev/gradle-3.2.1" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="G:/gradle-2.2.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/service/interface-usercenter" />
+            <option value="$PROJECT_DIR$/service/service-usercenter" />
             <option value="$PROJECT_DIR$/web" />
-            <option value="$PROJECT_DIR$/web/customer-controller" />
-            <option value="$PROJECT_DIR$/web/operation-controller" />
-            <option value="$PROJECT_DIR$/web/usercenter-controller" />
+            <option value="$PROJECT_DIR$/web/web-customer" />
+            <option value="$PROJECT_DIR$/web/web-operation" />
+            <option value="$PROJECT_DIR$/web/web-usercenter" />
           </set>
         </option>
       </GradleProjectSettings>
