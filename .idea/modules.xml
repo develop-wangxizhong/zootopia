@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter.iml" group="service/interface-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter_main.iml" group="service/interface-usercenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/interface-usercenter_test.iml" group="service/interface-usercenter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service.iml" group="service" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_main.iml" group="service/interface-usercenter" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/interface-usercenter/service-interface-usercenter_test.iml" group="service/interface-usercenter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter.iml" group="service/service-usercenter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_main.iml" group="service/service-usercenter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service-usercenter/service-usercenter_test.iml" group="service/service-usercenter" />
